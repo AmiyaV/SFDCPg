@@ -1,4 +1,4 @@
-# E-Carz Lightning Web Components Sample Application
+# E-Carzeeeee Lightning Web Components Sample Application
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/ebikes-lwc.svg?style=svg)](https://circleci.com/gh/trailheadapps/ebikes-lwc)
 
